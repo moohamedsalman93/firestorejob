@@ -29,4 +29,4 @@ Before running this script, ensure you have the following installed:
 To run the script, execute the following command in the terminal:
 
 ```bash
-python script_name.py
+python web.py
